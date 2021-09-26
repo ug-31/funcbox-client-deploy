@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/funcbox-client-deploy/static/css/main.05ca979f.chunk.css",
-    "main.js": "/funcbox-client-deploy/static/js/main.214193ff.chunk.js",
-    "main.js.map": "/funcbox-client-deploy/static/js/main.214193ff.chunk.js.map",
+    "main.js": "/funcbox-client-deploy/static/js/main.27f71938.chunk.js",
+    "main.js.map": "/funcbox-client-deploy/static/js/main.27f71938.chunk.js.map",
     "runtime-main.js": "/funcbox-client-deploy/static/js/runtime-main.f462739f.js",
     "runtime-main.js.map": "/funcbox-client-deploy/static/js/runtime-main.f462739f.js.map",
     "static/css/2.68b64559.chunk.css": "/funcbox-client-deploy/static/css/2.68b64559.chunk.css",
-    "static/js/2.5d3386ff.chunk.js": "/funcbox-client-deploy/static/js/2.5d3386ff.chunk.js",
-    "static/js/2.5d3386ff.chunk.js.map": "/funcbox-client-deploy/static/js/2.5d3386ff.chunk.js.map",
+    "static/js/2.e492c2ea.chunk.js": "/funcbox-client-deploy/static/js/2.e492c2ea.chunk.js",
+    "static/js/2.e492c2ea.chunk.js.map": "/funcbox-client-deploy/static/js/2.e492c2ea.chunk.js.map",
     "index.html": "/funcbox-client-deploy/index.html",
     "static/css/2.68b64559.chunk.css.map": "/funcbox-client-deploy/static/css/2.68b64559.chunk.css.map",
     "static/css/main.05ca979f.chunk.css.map": "/funcbox-client-deploy/static/css/main.05ca979f.chunk.css.map",
-    "static/js/2.5d3386ff.chunk.js.LICENSE.txt": "/funcbox-client-deploy/static/js/2.5d3386ff.chunk.js.LICENSE.txt"
+    "static/js/2.e492c2ea.chunk.js.LICENSE.txt": "/funcbox-client-deploy/static/js/2.e492c2ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f462739f.js",
     "static/css/2.68b64559.chunk.css",
-    "static/js/2.5d3386ff.chunk.js",
+    "static/js/2.e492c2ea.chunk.js",
     "static/css/main.05ca979f.chunk.css",
-    "static/js/main.214193ff.chunk.js"
+    "static/js/main.27f71938.chunk.js"
   ]
 }
