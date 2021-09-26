@@ -1,6 +1,5 @@
 import React, { Fragment } from "react";
 import { toast } from "react-toastify";
-import "./nav.css";
 
 const Navigation = ({ setAuth, isAuthenticated }) => {
   const onClickLogout = (e) => {
