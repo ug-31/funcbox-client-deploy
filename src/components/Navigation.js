@@ -1,5 +1,6 @@
 import React, { Fragment } from "react";
 import { toast } from "react-toastify";
+import "./nav.css";
 
 const Navigation = ({ setAuth, isAuthenticated }) => {
   const onClickLogout = (e) => {
@@ -23,8 +24,12 @@ const Navigation = ({ setAuth, isAuthenticated }) => {
           </li>
         </ul>
 
-        <div className="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul className="navbar-nav ml-auto">
+        <div
+          className=" navbar-collapse w-50 order-1 dual-collapse2"
+          // className="collapse navbar-collapse w-100 order-3 dual-collapse2"
+          id="navbarSupportedContent"
+        >
+          <ul className="nav navbar-nav ml-auto">
             <li className="nav-item active">
               {!isAuthenticated === true && (
                 <a className="nav-link" href="/funcbox-client-deploy/#/login">
