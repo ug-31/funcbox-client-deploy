@@ -1,7 +1,7 @@
 import "./App.css";
 import React, { Fragment, useState, useEffect } from "react";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Redirect,
