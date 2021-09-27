@@ -96,7 +96,9 @@ const Register = ({ setAuth }) => {
           Register
         </button>
         <br />
-        <a href="/login">Already Signed up? Click here to Login</a>
+        <a href="/funcbox-client-deploy/#/login">
+          Already Signed up? Click here to Login
+        </a>
       </form>
     </Fragment>
   );

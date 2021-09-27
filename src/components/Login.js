@@ -82,7 +82,9 @@ const Login = ({ setAuth }) => {
           Login
         </button>
         <br />
-        <a href="/register">Don't Have an Account? Register Here</a>
+        <a href="/funcbox-client-deploy/#/register">
+          Don't Have an Account? Register Here
+        </a>
       </form>
     </Fragment>
   );
